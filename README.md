@@ -31,6 +31,12 @@ Yes. That's it.
 
 ---
 
+## 🐱 Special Thanks
+
+A special thanks to **mimi** — the legendary, the great, the gentle cat.
+
+---
+
 ## License
 
 Copyright © 2026 detectiveRight <https://github.com/detectiveRight/>
