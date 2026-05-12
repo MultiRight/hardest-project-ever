@@ -53,6 +53,5 @@ If this project added value to your life, it won't hurt to drop a ⭐ and hit fo
 
 </div>
 
----
 
-> ⚠️ This README was written by AI. We are not responsible.
+
