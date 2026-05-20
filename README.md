@@ -40,7 +40,7 @@ A special thanks to **mimi** — the legendary, the great, the gentle cat.
 ## 👤 Author
 
 **MultiRight**
-- GitHub: [@MultiRight]([https://github.com/MultiRight/])
+- GitHub: [@MultiRight](https://github.com/MultiRight/)
 
 
 ---
