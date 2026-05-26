@@ -1,63 +1,56 @@
-# 🏆 The Hardest Project Ever
+# The Hardest Project Ever
 
 ---
 
-## What does this project do?
+## Overview
 
-It says:
+This project prints the following output:
 
 ```
 Hello World!
 ```
 
-Yes. That's it.
-
 ---
 
 ## Features
 
-- ✅ Says hello
-- ✅ To the world
-- ✅ Every single time
+- Prints a greeting message
+- Targets the world as the recipient
+- Produces consistent output on every execution
 
 ---
 
-## How to run it
+## Getting Started
 
-1. Open it
-2. Run it
-3. It says `Hello World!`
-4. You're done
+1. Open the project
+2. Execute the program
+3. The output `Hello World!` will be displayed
+4. Execution complete
 
 ---
+
+## Special Thanks
 
 ## 🐱 Special Thanks
-
 A special thanks to **mimi** — the legendary, the great, the gentle cat.
 
 ---
 
-## 👤 Author
+## Author
 
 **MultiRight**
-- GitHub: [@MultiRight](https://github.com/MultiRight/)
 
+- GitHub: [@MultiRight](https://github.com/MultiRight/)
+- Repository: [hardest-project-ever](https://github.com/MultiRight/hardest-project-ever)
 
 ---
 
 ## License
 
-Copyright © 2026 MultiRight <https://github.com/MultiRight>
+Copyright © 2026 MultiRight — <https://github.com/MultiRight>
 
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
 
-
-[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) — because even Hello World! deserves legal protection.
-
----
-
-<div align="center">
-
-If this project added value to your life, it won't hurt to drop a ⭐ and hit follow
 
 </div>
 
